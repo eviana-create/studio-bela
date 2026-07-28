@@ -46,3 +46,39 @@ O projeto foi pensado para profissionais autônomos e pequenos negócios que des
 ---
 
 ## 📂 Estrutura do Projeto
+
+
+---
+
+## 📍 Região de Atendimento
+
+Projeto desenvolvido inicialmente com foco em divulgação para:
+
+- Vila Moraes
+- São Bernardo do Campo
+- Grande Alvarenga
+
+---
+
+## 👨‍💻 Desenvolvido por
+
+**Emerson Viana**
+
+Desenvolvimento de soluções digitais, sites profissionais e automações para pequenos negócios e projetos comunitários.
+
+---
+
+## 📌 Próximas melhorias
+
+- [ ] Inserção de fotos reais do Studio Bela
+- [ ] Integração com Google Maps
+- [ ] Melhorias de SEO local
+- [ ] Área de depoimentos
+- [ ] Formulário de agendamento
+- [ ] Domínio personalizado
+
+---
+
+## 📄 Licença
+
+Projeto desenvolvido para fins de apresentação e demonstração de criação de sites profissionais.
