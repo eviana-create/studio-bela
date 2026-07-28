@@ -3,6 +3,7 @@ import ServicoCard from "../components/ServicoCard";
 import Galeria from "../components/Galeria";
 import Sobre from "../components/Sobre";
 import Depoimentos from "../components/Depoimentos";
+import Localizacao from "../components/Localizacao";
 
 function Home() {
   return (
@@ -136,7 +137,7 @@ function Home() {
 
 <Depoimentos />
 
-
+<Localizacao />
     </div>
   );
 }
