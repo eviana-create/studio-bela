@@ -1,7 +1,7 @@
 function WhatsAppButton() {
   return (
     <a
-      href="https://wa.me/5511000000000"
+      href="https://wa.me/5511000000000?text=Olá!%20Gostaria%20de%20agendar%20um%20horário%20no%20Studio%20Bela."
       target="_blank"
       rel="noreferrer"
       style={{

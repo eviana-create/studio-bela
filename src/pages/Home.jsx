@@ -4,6 +4,9 @@ import Galeria from "../components/Galeria";
 import Sobre from "../components/Sobre";
 import Depoimentos from "../components/Depoimentos";
 import Localizacao from "../components/Localizacao";
+import GaleriaPremium from "../components/GaleriaPremium";
+import Agendamento from "../components/Agendamento";
+import Faq from "../components/Faq";
 
 function Home() {
   return (
@@ -131,6 +134,8 @@ function Home() {
 
 </section>
 
+<GaleriaPremium />
+
 <Galeria />
 
 <Sobre />
@@ -138,6 +143,12 @@ function Home() {
 <Depoimentos />
 
 <Localizacao />
+
+<Agendamento />
+
+<Faq />
+
+
     </div>
   );
 }
