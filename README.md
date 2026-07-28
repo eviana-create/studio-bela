@@ -1,16 +1,48 @@
-# React + Vite
+# ✨ Studio Bela - Designer de Sobrancelhas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Studio Bela](https://img.shields.io/badge/Projeto-Studio%20Bela-E8B89A?style=for-the-badge)
 
-Currently, two official plugins are available:
+## 📌 Sobre o Projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+O **Studio Bela** é uma landing page desenvolvida para uma profissional de design de sobrancelhas, com foco em apresentar serviços de beleza, divulgar portfólio e facilitar o contato com clientes através do WhatsApp.
 
-## React Compiler
+O projeto foi pensado para profissionais autônomos e pequenos negócios que desejam ter uma presença digital profissional, melhorar sua divulgação e conquistar novos clientes através da internet.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🎯 Objetivos
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Apresentar os serviços do Studio Bela;
+- Divulgar trabalhos e resultados;
+- Facilitar agendamentos pelo WhatsApp;
+- Criar presença online profissional;
+- Preparar a estrutura para otimização no Google.
+
+---
+
+## 🚀 Funcionalidades
+
+✅ Página inicial profissional  
+✅ Apresentação dos serviços  
+✅ Galeria de trabalhos  
+✅ Seção sobre o Studio  
+✅ Botão WhatsApp flutuante  
+✅ Design responsivo para celular  
+✅ Estrutura preparada para SEO  
+✅ Publicação através da Vercel  
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- React
+- Vite
+- JavaScript
+- HTML5
+- CSS
+- Git e GitHub
+- Vercel
+
+---
+
+## 📂 Estrutura do Projeto
