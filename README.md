@@ -73,7 +73,7 @@ Desenvolvimento de soluções digitais, sites profissionais e automações para 
 - [ ] Inserção de fotos reais do Studio Bela
 - [ ] Integração com Google Maps
 - [ ] Melhorias de SEO local
-- [ ] Área de depoimentos
+- [ ] Área para depoimentos
 - [ ] Formulário de agendamento
 - [ ] Domínio personalizado
 
