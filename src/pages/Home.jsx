@@ -2,6 +2,7 @@ import Navbar from "../components/Navbar";
 import ServicoCard from "../components/ServicoCard";
 import Galeria from "../components/Galeria";
 import Sobre from "../components/Sobre";
+import Depoimentos from "../components/Depoimentos";
 
 function Home() {
   return (
@@ -132,6 +133,8 @@ function Home() {
 <Galeria />
 
 <Sobre />
+
+<Depoimentos />
 
 
     </div>
