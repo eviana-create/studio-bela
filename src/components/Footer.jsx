@@ -39,8 +39,8 @@ function Footer() {
           color: "#ddd"
         }}
       >
-        📍 Vila Moraes • São Bernardo do Campo
-        • Grande Alvarenga
+        📍 Vila Moraes • Grande Alvarenga
+        • São Bernardo do Campo
       </p>
 
 
